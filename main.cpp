@@ -2,7 +2,7 @@
 Uncomment ONLY 1 printf at a time for OPTION 1, OPTION 2, 
  OPTION 3 and OPTION 4 (Do NOT ALTER any other lines) to determine
 which one will print the message HELLO WORLD
-centred on the Middle line of the screen in RED letters
+centred on the Middle line of the screen in letters on a RED background
 Then select which OPTION 1-4  that did this for this question on LAB Test1
 */
 
